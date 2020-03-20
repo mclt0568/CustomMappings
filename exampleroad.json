@@ -1,0 +1,24 @@
+{
+	"id":"",
+	"context":{
+		"name":"",
+		"romanized":"",
+		"showromanized":true,
+		"fontsize":6,
+		""
+	},
+	"type":0,
+	"position":[0,0],
+	"points":[[0,0],[1,0],[3,0],[4,0]],
+	"width":3,
+}
+/*
+type
+
+0 - normal road
+1 - orange wider road
+2 - railway
+
+
+
+*/

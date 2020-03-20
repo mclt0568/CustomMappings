@@ -1,0 +1,27 @@
+{
+	"id":"",
+	"type":0,
+	"context":{
+		"name":"",
+		"romanized":"",
+		"showromanized":true,
+		"fontsize":6,
+		"align":"left"
+	},
+	"position":[0,0],
+	"color":""
+}
+
+/*
+type
+
+0 - default
+1 - school
+2 - shrine
+3 - church
+4 - ta.
+5 - railway
+6 - food/restoran
+7 - shop
+
+*/

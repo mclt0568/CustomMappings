@@ -1,0 +1,19 @@
+{
+	"id":"",
+	"type":0,
+	"context":{
+		"name":"",
+		"romanized":""
+		"roadid":"",
+		"number":0
+	}
+	"markid":""
+	"position":[0,0],
+	"points":[[0,0],[0,0],[0,0],[0,0]]
+}
+
+/*
+type
+0 - normal
+1 - underground
+*/
