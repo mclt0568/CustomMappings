@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\CustomMappings\CustomMappings\bin\Debug\CustomMappings.exe.config
+C:\Users\user\source\repos\CustomMappings\CustomMappings\bin\Debug\CustomMappings.exe
+C:\Users\user\source\repos\CustomMappings\CustomMappings\bin\Debug\CustomMappings.pdb
+C:\Users\user\source\repos\CustomMappings\CustomMappings\obj\Debug\CustomMappings.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CustomMappings\CustomMappings\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\CustomMappings\CustomMappings\obj\Debug\App.g.cs
+C:\Users\user\source\repos\CustomMappings\CustomMappings\obj\Debug\CustomMappings_MarkupCompile.cache
+C:\Users\user\source\repos\CustomMappings\CustomMappings\obj\Debug\CustomMappings_MarkupCompile.lref
+C:\Users\user\source\repos\CustomMappings\CustomMappings\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\CustomMappings\CustomMappings\obj\Debug\CustomMappings.g.resources
+C:\Users\user\source\repos\CustomMappings\CustomMappings\obj\Debug\CustomMappings.Properties.Resources.resources
+C:\Users\user\source\repos\CustomMappings\CustomMappings\obj\Debug\CustomMappings.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CustomMappings\CustomMappings\obj\Debug\CustomMappings.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CustomMappings\CustomMappings\obj\Debug\CustomMappings.exe
+C:\Users\user\source\repos\CustomMappings\CustomMappings\obj\Debug\CustomMappings.pdb
