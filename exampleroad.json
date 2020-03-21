@@ -5,7 +5,7 @@
 		"romanized":"",
 		"showromanized":true,
 		"fontsize":6,
-		""
+		"align":"left"
 	},
 	"type":0,
 	"position":[0,0],

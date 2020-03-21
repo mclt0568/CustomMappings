@@ -3,9 +3,10 @@
 	"type":0,
 	"context":{
 		"name":"",
-		"romanized":""
-		"roadid":"",
-		"number":0
+		"romanized":"",
+		"showromanized":true,
+		"fontsize":6,
+		"align":"left"
 	}
 	"markid":""
 	"position":[0,0],
