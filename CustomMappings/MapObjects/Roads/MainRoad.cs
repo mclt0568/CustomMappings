@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace CustomMappings.MapObjects.Roads
 {
-	class MainRoads
+	public class MainRoads
 	{
+		string id;
+		OtherObjects.TagContext context;
+		int[] position = { 0, 0 };
+		List<int[]> points = new List<int[]>();
+		int width;
+		public MainRoads(string argId)
+		{
+			id = argId;
+		}
 	}
 }

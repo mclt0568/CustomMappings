@@ -8,5 +8,15 @@ namespace CustomMappings.MapObjects.Roads
 {
 	class Railway
 	{
+		string id;
+		OtherObjects.TagContext context;
+		int[] position = { 0, 0 };
+		List<int[]> points = new List<int[]>();
+		int width;
+
+		public Railway(string argId)
+		{
+			id = argId;
+		}
 	}
 }

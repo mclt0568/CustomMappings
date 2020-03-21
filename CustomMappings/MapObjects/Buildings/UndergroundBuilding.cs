@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace CustomMappings.MapObjects.Buildings
 {
-	class UndergroundBuildings
+	public class UndergroundBuildings
 	{
+		string id;
+		dynamic mark;
+		OtherObjects.TagContext context;
+		int[] position = { 0, 0 };
+		public UndergroundBuildings(string argId) {
+			id = argId;
+		}
 	}
 }
